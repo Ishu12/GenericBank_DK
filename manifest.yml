@@ -2,7 +2,7 @@ applications:
 - disk_quota: 1024M
   host: genericbankcustom
   name: GenericBankUI
-  path: webstarterApp.war
+  path: GenericBankUIApp.war
   domain: mybluemix.net
   instances: 1
   memory: 512M
